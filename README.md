@@ -1,4 +1,4 @@
 # python_projects
-# no additional libraries needed
+no additional libraries needed
 
-# Run "main chessboard
+Run "main chessboard
